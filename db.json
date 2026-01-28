@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 2,
+      "id": "2",
       "title": "Deep Focus India",
       "author": "Rahul Mehta",
       "email": "rahul.mehta.dev@yahoo.com",
@@ -12,7 +12,7 @@
       "description": "A guide to mastering deep work in a distraction-heavy world. It teaches focus techniques, time blocking, and mental clarity strategies tailored for modern professionals."
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Mind Over Career",
       "author": "Neha Verma",
       "email": "neha.verma88@outlook.com",
@@ -23,7 +23,7 @@
       "description": "This book helps young professionals align their mindset with long-term career goals. It covers confidence building, decision-making, and overcoming workplace anxiety."
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Money Simplified",
       "author": "Rakesh Iyer",
       "email": "rakesh.iyer@mail.com",
@@ -34,18 +34,7 @@
       "description": "An easy-to-understand personal finance guide covering savings, investments, and smart money habits. Ideal for beginners looking to gain financial independence."
     },
     {
-      "id": 5,
-      "title": "Think Like a Leader",
-      "author": "Pooja Nair",
-      "email": "pooja.nair23@gmail.com",
-      "age": 39,
-      "price": 420,
-      "category": "Leadership",
-      "publishedYear": 2017,
-      "description": "This book explores leadership thinking, emotional intelligence, and decision-making skills required to lead teams effectively in competitive environments."
-    },
-    {
-      "id": 6,
+      "id": "6",
       "title": "Startup Diaries",
       "author": "Kunal Deshpande",
       "email": "kunal.desh@gmail.com",
@@ -56,7 +45,7 @@
       "description": "A real-world startup journey sharing lessons, failures, and growth strategies. It provides practical insights for aspiring entrepreneurs."
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "The Calm Mind",
       "author": "Anjali Kulkarni",
       "email": "anjali.kulkarni@protonmail.com",
@@ -67,7 +56,7 @@
       "description": "Focused on mental well-being, this book introduces mindfulness techniques, stress management, and emotional balance for everyday life."
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Digital Discipline",
       "author": "Saurabh Jain",
       "email": "saurabh.jain99@gmail.com",
@@ -78,7 +67,7 @@
       "description": "A modern guide to managing screen time and digital overload while staying productive in a technology-driven world."
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Winning Everyday",
       "author": "Vikram Patil",
       "email": "vikram.patil@outlook.com",
@@ -89,7 +78,7 @@
       "description": "This book emphasizes consistency, self-belief, and daily improvement as the foundation for long-term success."
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Life Beyond Comfort",
       "author": "Sneha Rao",
       "email": "sneha.rao@gmail.com",
@@ -100,7 +89,7 @@
       "description": "Encourages readers to step out of their comfort zones and embrace challenges to unlock personal growth."
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Smart Work Secrets",
       "author": "Arjun Malhotra",
       "email": "arjun.malhotra@mail.com",
@@ -111,7 +100,7 @@
       "description": "Teaches how to work smarter using prioritization, automation, and efficient decision-making techniques."
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Purpose Driven Life (Indian Edition)",
       "author": "Manish Gupta",
       "email": "manish.gupta@yahoo.com",
@@ -122,7 +111,7 @@
       "description": "A thoughtful exploration of purpose, values, and long-term fulfillment rooted in practical life examples."
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "The Learning Curve",
       "author": "Kriti Saxena",
       "email": "kriti.saxena@gmail.com",
@@ -133,7 +122,7 @@
       "description": "Focuses on continuous learning, skill development, and adapting to change in a fast-evolving job market."
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Focus Fit Life",
       "author": "Nitin Chawla",
       "email": "nitin.chawla@outlook.com",
@@ -144,7 +133,7 @@
       "description": "Combines fitness, mental focus, and lifestyle habits to help readers build sustainable health routines."
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Minimal Living",
       "author": "Riya Banerjee",
       "email": "riya.banerjee@mail.com",
@@ -155,7 +144,7 @@
       "description": "Explains how minimalism can improve clarity, reduce stress, and bring balance to everyday living."
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Career Switch Blueprint",
       "author": "Siddharth Joshi",
       "email": "sid.joshi@gmail.com",
@@ -166,7 +155,7 @@
       "description": "A practical roadmap for professionals planning a career switch, including mindset shifts and skill planning."
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Inner Strength",
       "author": "Meenal Desai",
       "email": "meenal.desai@outlook.com",
@@ -177,7 +166,7 @@
       "description": "Highlights resilience, emotional strength, and overcoming personal setbacks through real-life examples."
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Build Before You Scale",
       "author": "Harsh Vardhan",
       "email": "harsh.vardhan@gmail.com",
@@ -188,7 +177,7 @@
       "description": "Advises founders on building strong fundamentals before scaling startups, covering product, people, and processes."
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Confidence Playbook",
       "author": "Tanvi Kulkarni",
       "email": "tanvi.k@gmail.com",
@@ -199,7 +188,7 @@
       "description": "A step-by-step guide to building self-confidence, communication skills, and personal presence."
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "The Balanced Hustle",
       "author": "Aditya Kulkarni",
       "email": "aditya.kul@gmail.com",
